@@ -5,5 +5,5 @@ import { defineConfig } from 'vite';
 // If you're deploying to a custom domain or a username.github.io root repo,
 // set base: '/' instead.
 export default defineConfig({
-  base: '/portfolio/',
+  base: '/Portfolio/',
 });
